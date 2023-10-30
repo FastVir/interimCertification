@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\DarGoD\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\HomeWork\\Task64\\Task64.csproj",
+      "projectUniqueName": "C:\\Users\\DarGoD\\Desktop\\interimCertification\\Task64\\Task64.csproj",
       "projectName": "Task64",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\HomeWork\\Task64\\Task64.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\HomeWork\\Task64\\obj\\",
+      "projectPath": "C:\\Users\\DarGoD\\Desktop\\interimCertification\\Task64\\Task64.csproj",
+      "packagesPath": "C:\\Users\\DarGoD\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DarGoD\\Desktop\\interimCertification\\Task64\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\DarGoD\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\HomeWork\\Task66\\Task66.csproj": {}
+    "C:\\Users\\DarGoD\\Desktop\\interimCertification\\Task66\\Task66.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\HomeWork\\Task66\\Task66.csproj": {
+    "C:\\Users\\DarGoD\\Desktop\\interimCertification\\Task66\\Task66.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\HomeWork\\Task66\\Task66.csproj",
+        "projectUniqueName": "C:\\Users\\DarGoD\\Desktop\\interimCertification\\Task66\\Task66.csproj",
         "projectName": "Task66",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\HomeWork\\Task66\\Task66.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\HomeWork\\Task66\\obj\\",
+        "projectPath": "C:\\Users\\DarGoD\\Desktop\\interimCertification\\Task66\\Task66.csproj",
+        "packagesPath": "C:\\Users\\DarGoD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DarGoD\\Desktop\\interimCertification\\Task66\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DarGoD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
